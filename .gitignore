@@ -1,0 +1,5 @@
+*.jar
+/app-env/*
+/__pycache__/*
+/.pytest_cache/*
+/tests/__pycache__/*
